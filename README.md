@@ -1,6 +1,7 @@
-### Hi there 👋
+
 
 <div align="center">
+  ### Hi there 👋
   <h3>My name is João, I'm an student, focusing on Front End development</h3>
     <h3>Currently learning React, SQL, MySQL and improving my knowledge in others technologies</h3>
 <div>
