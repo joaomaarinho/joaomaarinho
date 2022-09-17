@@ -2,8 +2,8 @@
 
 <div align="center">
   <h1>Hi there 👋</h1>
-  <h3>My name is João, I'm an student, focusing on Full Stack development</h3>
-    <h3>Currently learning React, SQL, MySQL and improving my knowledge in others technologies</h3>
+  <h3>My name is João, I'm an student, focusing on Full Cycle Software Development</h3>
+    <h3>Currently learning React.js, SQL, MySQL, node.js, Docker, Linux, TypeScript and improving my knowledge in others technologies</h3>
 <div>
 
 <div align="center">
